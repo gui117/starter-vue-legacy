@@ -1,6 +1,6 @@
 # starter-vue-legacy
 
-**Legacy version** of minimal Vue 3 template with TypeScript, Vite, UnoCSS and ESLint.
+**Legacy version** of minimal Vue 2.7 template with TypeScript, Vite, UnoCSS and ESLint.
 
 ## Features
 
